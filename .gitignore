@@ -1,0 +1,4 @@
+api/api/__pycache__
+api/api/quickstart/__pycache__
+api/venv/
+api/db.sqlite3

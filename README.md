@@ -1,4 +1,4 @@
-# drf-vue-social-oauth2
+# drf-auth-example
 
 By Corey Gale (corey@gumgum.com)
 
